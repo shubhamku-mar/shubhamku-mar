@@ -2,15 +2,15 @@
 
 # Shubham Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;B.Tech+CSE+(AI+%26+ML)+%F0%9F%8E%93;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;B.Tech+CSE+(AI+%26+ML)+%F0%9F%8E%93;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9A%A1" />
 
-<img src="https://komarev.com/ghpvc/?username=shubhamku-mar&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/shubhamku-mar?label=Followers&style=for-the-badge&color=7F00FF"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=shubhamku-mar&label=Profile%20Views&color=00ffff&style=for-the-badge)](https://github.com/shubhamku-mar)
+[![Followers](https://img.shields.io/github/followers/shubhamku-mar?label=Followers&style=for-the-badge&color=7F00FF)](https://github.com/shubhamku-mar?tab=followers)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)](https://github.com/shubhamku-mar)
 
 </div>
 
-<br/>
+---
 
 ## 🚀 About Me
 
@@ -20,14 +20,11 @@
 - 🌐 Building modern, scalable **Full-Stack Web Applications**
 - 🧠 Currently sharpening **DSA, Backend Engineering & Cloud**
 - 🚀 I love shipping projects that solve **real-world problems**
-- 📚 Perpetual learner — new stack, new challenge, every month
 - ⚡ Philosophy: **Code. Learn. Build. Repeat.**
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=2&section=header&width=100%"/>
-</div>
+---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -51,54 +48,15 @@
 
 **AI / ML Toolkit:** `Machine Learning` • `NLP` • `TF-IDF` • `VADER` • `TextBlob` • `Scikit-learn` • `Linear SVM` • `SMOTE`
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=2&section=header&width=100%"/>
-</div>
+---
 
-## 🚀 Featured Projects
+## 🗂️ Project Overview
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+| **🤖 Fake Review Detection**<br/>AI/ML • NLP<br/>AI-powered system for detecting potentially fake reviews using Machine Learning and NLP.<br/>`Python` `FastAPI` `TF-IDF` `Linear SVM` `SMOTE` `VADER` | **🎓 Student Placement System**<br/>Full-Stack • Database<br/>Manages student placement activities and simplifies interaction between students, recruiters, and administrators.<br/>`Web Development` `Database` `Git` `GitHub` |
+|---|---|
+| **💻 Page Replacement Simulator**<br/>Systems • Algorithms<br/>An OS simulator for understanding and visualizing page replacement algorithms.<br/>`C/C++` `Operating Systems` `Algorithms` | **🌾 Smart Farming Dashboard**<br/>AI • AgriTech<br/>Smart agriculture platform combining weather data, government schemes, expert consultation, and a digital marketplace.<br/>`AI` `Agriculture` `Smart Technology` |
 
-### 🤖 Fake Review Detection
-AI-powered system for detecting potentially fake reviews using Machine Learning and NLP.
-
-**Tech:** Python • FastAPI • TF-IDF • Linear SVM • SMOTE • VADER
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Student Placement System
-Manages student placement activities and simplifies interaction between students, recruiters, and administrators.
-
-**Tech:** Web Development • Database • Git • GitHub
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Page Replacement Simulator
-An OS simulator for understanding and visualizing page replacement algorithms.
-
-**Tech:** C/C++ • Operating Systems • Algorithms
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Smart Farming Dashboard
-Smart agriculture platform combining weather data, government schemes, expert consultation, and a digital marketplace.
-
-**Focus:** AI • Agriculture • Smart Technology
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=2&section=header&width=100%"/>
-</div>
+---
 
 ## 📊 GitHub Statistics
 
@@ -115,9 +73,7 @@ Smart agriculture platform combining weather data, government schemes, expert co
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=2&section=header&width=100%"/>
-</div>
+---
 
 ## 📈 Learning Progress
 
@@ -142,15 +98,15 @@ Blockchain                    ██████████░░░░░░�
 <img src="https://img.shields.io/badge/Blockchain%20%26%20Hyperledger-00F7FF?style=for-the-badge"/>
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=2&section=header&width=100%"/>
-</div>
+---
 
 ## 💡 Quote of the Moment
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -161,8 +117,8 @@ Blockchain                    ██████████░░░░░░�
 
 <div align="center">
 
-### ⚡ "Code. Learn. Build. Repeat." ⚡
+**If this profile interests you, drop a follow ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer"/>
+### ⚡ "Code. Learn. Build. Repeat." ⚡
 
 </div>
