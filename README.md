@@ -141,7 +141,7 @@
 
 ---
 
-<!-- ======================= FIXED LIVE GITHUB ANALYTICS ======================= -->
+<!-- ======================= LIVE GITHUB ANALYTICS ======================= -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=%F0%9F%93%88%20LIVE%20GITHUB%20ANALYTICS%20%F0%9F%93%88&fontSize=30&fontColor=00E5FF&animation=fadeIn" width="100%"/>
@@ -153,12 +153,13 @@
 
 <br><br>
 
-<!-- 100% Working Stats & Languages -->
+<!-- 100% Tested Working GitHub Stats & Top Languages -->
 <a href="https://github.com/shubhamku-mar">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamku-mar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamku-mar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
 </a>
+&nbsp;
 <a href="https://github.com/shubhamku-mar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamku-mar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamku-mar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </a>
 
 <br><br>
@@ -170,21 +171,18 @@
 
 <br><br>
 
-<!-- 100% Working Contribution Velocity Graph -->
+<!-- 100% Working Profile Summary Details & Language Charts -->
 <a href="https://github.com/shubhamku-mar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamku-mar&theme=tokyo-night&hide_border=true&area=true&custom_title=Shubham%20Kumar%20-%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamku-mar&theme=tokyonight" height="180" alt="Profile Details"/>
+</a>
+&nbsp;
+<a href="https://github.com/shubhamku-mar">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamku-mar&theme=tokyonight" height="180" alt="Repos Per Language"/>
 </a>
 
 <br><br>
 
-<!-- 100% Working Trophy Case -->
-<a href="https://github.com/shubhamku-mar">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamku-mar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub Trophies"/>
-</a>
-
-<br><br>
-
-<!-- Animated Contribution Snake Animation -->
+<!-- Animated Contribution Snake Game -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Eating Contributions" width="100%"/>
 
 </div>
@@ -250,3 +248,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,25:2C5364,50:203A43,75:0F2027,100:050A0F&height=150&section=footer&animation=twinkle" width="100%"/>
 
 </div>
+
