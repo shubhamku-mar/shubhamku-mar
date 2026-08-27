@@ -1,56 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=SHUBHAM%20KUMAR&fontSize=60&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%"/>
+<!-- ===================== ANIMATED HEADER BANNER ===================== -->
 
-# SHUBHAM KUMAR
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=SHUBHAM%20KUMAR&fontSize=65&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"
+width="100%"
+/>
 
-### AI & ML Enthusiast • Full Stack Developer • Data Science
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-<p>
-Building intelligent solutions with code, data and creativity.
-</p>
-
-<p>
 <a href="https://github.com/shubhamku-mar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B;Data+Science+Enthusiast;MERN+Stack+Developer;Building+Real-World+Technology;Always+Learning+%7C+Always+Building"
+alt="Typing SVG"
+/>
+
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shubhamku-mar&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/shubhamku-mar?tab=followers">
+<img src="https://img.shields.io/github/followers/shubhamku-mar?label=Followers&style=for-the-badge&logo=github"/>
 </a>
-</p>
+
+<a href="https://github.com/shubhamku-mar?tab=repositories">
+<img src="https://img.shields.io/github/stars/shubhamku-mar?label=Stars&style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
 
-Hi, I'm **Shubham Kumar**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+# 👋 Hey, I'm Shubham Kumar
 
-I'm passionate about building applications that combine **AI, Machine Learning, Web Development and Data Science**.
+<div align="center">
 
-- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
-- 🤖 AI & Machine Learning Enthusiast
-- 💻 Full Stack Developer
-- 🐍 Python Developer
-- ☕ Java Developer
-- 🌐 MERN Stack Developer
-- 📊 Data Science & Data Analysis
-- 🗄️ SQL & Database Management
-- 🚀 Interested in building real-world technology solutions
-- 📚 Always learning and improving
+### `AI & ML` × `Full Stack` × `Data`
 
----
+</div>
 
-## 🚀 What I'm Working On
+I'm a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, passionate about transforming ideas into real-world technology.
+
+I enjoy working across the entire development journey — from **data and machine learning models** to **backend systems and modern web applications**.
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Data Science
-        ↓
-Full Stack Development
-        ↓
-Real-World Applications
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│                 SHUBHAM KUMAR                       │
+│                                                     │
+│       AI / ML  →  DATA  →  BACKEND  →  WEB         │
+│                                                     │
+│             LEARN  •  BUILD  •  INNOVATE           │
+│                                                     │
+└─────────────────────────────────────────────────────┘
