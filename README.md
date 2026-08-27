@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Shubham%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
+# Shubham Kumar
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;B.Tech+CSE+(AI+%26+ML)+%F0%9F%8E%93;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9A%A1" />
 
@@ -14,8 +14,6 @@
 
 ## 🚀 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 🎓 **B.Tech Computer Science & Engineering — AI & ML**
 - 💻 Passionate about **Software Development & Artificial Intelligence**
 - 🤖 Deep interest in **NLP, Machine Learning & Intelligent Systems**
@@ -24,8 +22,6 @@
 - 🚀 I love shipping projects that solve **real-world problems**
 - 📚 Perpetual learner — new stack, new challenge, every month
 - ⚡ Philosophy: **Code. Learn. Build. Repeat.**
-
-<br clear="right"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=2&section=header&width=100%"/>
