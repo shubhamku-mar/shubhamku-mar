@@ -12,7 +12,7 @@
 
 <!-- Dynamic Status Badges -->
 <a href="https://github.com/shubhamku-mar">
-  <img src="https://komarev.com/ghpvc/?username=shubhamku-mar&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhamku-mar&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge" alt="Profile Views"/>
 </a>
 <a href="https://github.com/shubhamku-mar?tab=followers">
   <img src="https://img.shields.io/github/followers/shubhamku-mar?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=00E5FF&color=111111" alt="Followers"/>
@@ -23,7 +23,7 @@
 
 <br><br>
 
-<!-- Animated Coder Banner -->
+<!-- Animated Cyber Coder Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated Cyber Coding Banner"/>
 
 </div>
@@ -83,104 +83,109 @@
 
 ---
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
+<!-- ======================= ANIMATED FEATURED PROJECTS ======================= -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%F0%9F%9A%80&fontSize=30&fontColor=00E5FF&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&width=800&height=40&lines=%E2%9A%A1+Executing+Live+Project+Simulations+%26+Algorithms...;%F0%9F%94%A7+Production+Code+%E2%80%A2+Scalable+Architectures+%E2%80%A2+Clean+Design" alt="Projects Typing"/>
 
 </div>
 
 <br>
 
 <table align="center" width="100%">
+  <!-- PROJECT 1 & 2 -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧭 Pathfinder Visualizer</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Algorithms-A*_%7C_Dijkstra_%7C_BFS_%7C_DFS-00E5FF?style=flat-square&logo=algo&logoColor=black"/>
-      </p>
-      <p align="center">
-        Interactive algorithm & maze generator visualization engine built with clean data structures, Min-Heaps & dynamic grid layouts.
-      </p>
-      <p align="center">
-        <code>Graphs</code> • <code>Union-Find</code> • <code>Heaps</code> • <code>Vanilla JS</code>
-      </p>
+    <td width="50%" valign="top" align="center">
+      <h3>🧭 Pathfinder Visualizer</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=javascript,html,css,git&perline=4" alt="Pathfinder Stack"/>
+      </a>
+      <br><br>
+      <!-- Animated Pathfinder Simulation -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1800&pause=500&color=00E5FF&center=false&vCenter=true&width=380&height=120&lines=%3E+Initializing+Grid+Graph...;%3E+Executing+A*+Search...;%3E+Heuristic%3A+Manhattan+Distance;%3E+Visited+Nodes%3A+342+%7C+Path%3A+Optimal;%3E+Status%3A+Visualization+Complete+%E2%9C%93" alt="Pathfinder Typing"/>
+      <br>
+      <img src="https://img.shields.io/badge/Algorithms-A*_%7C_Dijkstra_%7C_BFS_%7C_DFS-050A0F?style=for-the-badge&colorA=050A0F&colorB=00C6FF"/>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔎 Fake Review Detector</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Machine_Learning-NLP_%7C_Python_%7C_Scikit-00C6FF?style=flat-square&logo=python&logoColor=black"/>
-      </p>
-      <p align="center">
-        Intelligent review fraud detection engine utilizing natural language processing, feature engineering, and high-accuracy classification.
-      </p>
-      <p align="center">
-        <code>Python</code> • <code>NLP</code> • <code>Classification</code> • <code>Pandas</code>
-      </p>
+    <td width="50%" valign="top" align="center">
+      <h3>🔎 Fake Review Detector</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,pandas&perline=4" alt="ML Stack"/>
+      </a>
+      <br><br>
+      <!-- Animated ML Simulation -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1800&pause=500&color=00E5FF&center=false&vCenter=true&width=380&height=120&lines=%3E+Ingesting+Unstructured+Reviews...;%3E+NLP+Pipeline%3A+TF-IDF+%2B+Tokenize;%3E+Running+Classifier+Model...;%3E+Fraud+Confidence%3A+98.7%25+%5BFLAGGED%5D;%3E+Status%3A+Dataset+Cleaned+%E2%9C%93" alt="ML Typing"/>
+      <br>
+      <img src="https://img.shields.io/badge/ML_Model-NLP_%7C_Classification_%7C_Python-050A0F?style=for-the-badge&colorA=050A0F&colorB=00E5FF"/>
     </td>
   </tr>
+  <!-- PROJECT 3 -->
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" valign="top">
       <br>
-      <h3>🌐 Full-Stack Modern Web Applications</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-React_%7C_Node.js_%7C_MongoDB_%7C_Express-7FDBFF?style=flat-square&logo=react&logoColor=black"/>
-      </p>
-      <p>
-        Architecting end-to-end, high performance full-stack web applications featuring secure authentication, RESTful APIs, and reactive responsive UIs.
-      </p>
+      <h3>🌐 Full-Stack Cloud & Web Ecosystems</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,docker,postman&perline=7" alt="Full Stack"/>
+      </a>
+      <br><br>
+      <!-- Animated Full Stack Simulation -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1800&pause=500&color=7FDBFF&center=true&vCenter=true&width=800&height=80&lines=%3E+Connecting+Client+%E2%86%92+RESTful+API+Gateway...;%3E+JWT+Authentication%3A+Verified+%E2%9C%93+%7C+MongoDB+Atlas%3A+Synced+%E2%9C%93;%3E+Status%3A+Microservices+Healthy+%26+Running+at+99.9%25+Uptime" alt="Full Stack Typing"/>
+      <br>
+      <img src="https://img.shields.io/badge/Architecture-MERN_Stack_%7C_REST_APIs_%7C_JWT_Auth-050A0F?style=for-the-badge&colorA=050A0F&colorB=00C6FF"/>
     </td>
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&width=800&height=40&lines=%E2%9C%A8+Continuously+Shipping+New+Innovations+%26+Open+Source+Projects" alt="Projects Typing"/>
-</div>
-
 ---
 
-<!-- ======================= GITHUB ANALYTICS & STATS ======================= -->
+<!-- ======================= FIXED LIVE GITHUB ANALYTICS ======================= -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=%F0%9F%93%88%20LIVE%20GITHUB%20ANALYTICS%20%F0%9F%93%88&fontSize=30&fontColor=00E5FF&animation=fadeIn" width="100%"/>
 
-<br><br>
+<br>
 
-<!-- GitHub Main Stats and Top Languages -->
-<a href="https://github.com/shubhamku-mar">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamku-mar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=050A0F&title_color=00E5FF&icon_color=00C6FF&text_color=FFFFFF" height="175" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/shubhamku-mar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamku-mar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=050A0F&title_color=00E5FF&text_color=FFFFFF" height="175" alt="Top Languages"/>
-</a>
+<!-- Animated Telemetry Terminal Line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=800&height=40&lines=%F0%9F%94%84+Live+Syncing+Commits%2C+Pull+Requests+%26+Streak+Telemetry...;%F0%9F%94%A5+Continuous+Streak+Active+%E2%80%A2+Tracking+Production+Contributions" alt="Live Sync Typing"/>
 
 <br><br>
 
-<!-- Streak Stats -->
+<!-- 100% Working Stats & Languages -->
 <a href="https://github.com/shubhamku-mar">
-  <img src="https://streak-stats.demolab.com?user=shubhamku-mar&theme=tokyonight&hide_border=true&border_radius=10&background=050A0F&ring=00E5FF&fire=00C6FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamku-mar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/shubhamku-mar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamku-mar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </a>
 
 <br><br>
 
-<!-- Dynamic Activity Graph -->
+<!-- 100% Working Streak Stats -->
 <a href="https://github.com/shubhamku-mar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamku-mar&theme=tokyo-night&hide_border=true&area=true&bg_color=050A0F&color=00E5FF&line=00C6FF&point=FFFFFF&custom_title=SHUBHAM%20KUMAR%20-%20CONTRIBUTION%20VELOCITY" width="95%" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=shubhamku-mar&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </a>
 
 <br><br>
 
-<!-- GitHub Profile Trophies -->
+<!-- 100% Working Contribution Velocity Graph -->
+<a href="https://github.com/shubhamku-mar">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamku-mar&theme=tokyo-night&hide_border=true&area=true&custom_title=Shubham%20Kumar%20-%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+</a>
+
+<br><br>
+
+<!-- 100% Working Trophy Case -->
 <a href="https://github.com/shubhamku-mar">
   <img src="https://github-profile-trophy.vercel.app/?username=shubhamku-mar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub Trophies"/>
 </a>
 
 <br><br>
 
-<!-- Snake Eating Contribution Grid Animation -->
-<img src="https://raw.githubusercontent.com/shubhamku-mar/shubhamku-mar/output/github-contribution-grid-snake-dark.svg" alt="Snake Eating Contributions" width="100%"/>
+<!-- Animated Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Eating Contributions" width="100%"/>
 
 </div>
 
@@ -224,7 +229,7 @@
 <br><br>
 
 <a href="https://github.com/shubhamku-mar" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-050A0F?style=for-the-badge&logo=github&logoColor=00E5FF&borderColor=00E5FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-050A0F?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shubhamku-mar/" target="_blank">
